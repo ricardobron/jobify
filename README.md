@@ -3,7 +3,7 @@
 </h1>
 
 <p>
- É um Website de gerencioamento de vagas e de categorias, que inclui um Painel Administrativo.
+ É um Website de gerenciamento de vagas e de categorias, que inclui um Painel Administrativo.
 </p>
 
 ## 👨🏼‍💻 Para mais projetos 
