@@ -1,11 +1,21 @@
-# jobify
+<h1>
+ Jobify
+</h1>
 
-Participei no Fullstack Lab e fui eu que fiz este projeto.
+<p>
+ É um Website de gerencioamento de vagas e de categorias, que inclui um Painel Administrativo.
+</p>
 
-Painel de gerenciamento de vagas e categorias acessível só em desenvolvimento. 
+## 👨🏼‍💻 Para mais projetos 
 
-Acessar Projeto => https://bit.ly/2YQonno
+- [Ricardo Silva](https://github.com/ricardobron)
+- Acessar Projeto => https://bit.ly/2YQonno
+
+## 🚀 Tecnologias
+
+- ⚡ EJS - Embedded JavaScript templates
+
+---
 
 
-
-
+Feito by Ricardo Silva 👋
