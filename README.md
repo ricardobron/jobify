@@ -13,8 +13,11 @@
 
 ## 🚀 Tecnologias
 
-- ⚡ EJS - Embedded JavaScript templates
-- 💾 SQL Lite
+- ⚡ Express — Node.js web application framework
+- ⭐️ EJS — Embedded JavaScript templates
+- 💾 SQL Lite — Relational Database
+- 📃 Body-Parser — Node.js body parsing middleware
+
 
 ---
 
