@@ -14,6 +14,7 @@
 ## 🚀 Tecnologias
 
 - ⚡ EJS - Embedded JavaScript templates
+- 💾 SQL Lite
 
 ---
 
